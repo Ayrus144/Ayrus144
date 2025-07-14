@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⛏ I’m currently developing a Custom Segmentation tool for Wildlife Images
 - 🌱 I’m currently learning about Agentic AI
 
-💬 Contributions in:
-- [distance-estimation](https://github.com/timmh/distance-estimation/#acknowledgements)
-- [Turbulent_flow_in_HPC](https://github.com/karthikeya-ms/Turbulent_flow_in_HPC/graphs/contributors), contributed in 2023 while it was hosted on GitLab, prior to joining GitHub.
+💬 Key Contributions in:
+- [distance-estimation](https://github.com/timmh/distance-estimation/#acknowledgements): acknowledged for pointing issues with computation of world coordinates.
+- [Turbulent_flow_in_HPC](https://github.com/karthikeya-ms/Turbulent_flow_in_HPC/graphs/contributors): contributed in 2023 while it was hosted on GitLab, prior to joining GitHub.
