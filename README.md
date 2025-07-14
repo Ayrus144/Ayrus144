@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 😄 I have interests in Generative AI/ LLMs/ Computer Vision
-- 💬 I have worked on Robust AI/ XAI/ Responsible AI
-- 🔭 I’m currently working on Custom Segmentation tool for Wildlife Images
+- 🔭 I have good exposure to Robust AI/ XAI/ Responsible AI
+- ⛏ I’m currently developing a Custom Segmentation tool for Wildlife Images
 - 🌱 I’m currently learning about Agentic AI
 
 💬 Acknowledged in:
