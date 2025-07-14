@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I have interests in Generative AI/ LLMs/ Computer Vision
+- 💬 I have worked on Robust AI/ XAI/ Responsible AI
+- 🔭 I’m currently working on Custom Segmentation tool for Wildlife Images
+- 🌱 I’m currently learning about Agentic AI
+
+💬 Acknowledged in:
+- [distance-estimation](https://github.com/timmh/distance-estimation/#acknowledgements)
